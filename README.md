@@ -1,1 +1,1 @@
-# galeriia
+# galeria
